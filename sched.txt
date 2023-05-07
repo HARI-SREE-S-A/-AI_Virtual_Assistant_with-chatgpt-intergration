@@ -1,0 +1,4 @@
+1,woke up at 5 am
+2, at 10am update the github
+3,Remind manager regarding lab access at 11 am
+4,Sign in to workstation at 12 pm
