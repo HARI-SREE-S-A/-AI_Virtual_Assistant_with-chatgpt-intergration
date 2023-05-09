@@ -19,7 +19,7 @@ openai.api_key = "skZO"
 # Define a function to generate a response from OpenAI
 def generate_response(prompt):
     response = openai.Completion.create(
-        engine="davinci",
+        engine="text-davinci-003",
         prompt=prompt,
         max_tokens=100 ,
         n=1,
