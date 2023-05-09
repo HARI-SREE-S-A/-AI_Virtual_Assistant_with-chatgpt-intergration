@@ -14,7 +14,7 @@ mic = sr.Microphone()
 engine = pyttsx3.init()
 
 # Set up OpenAI API credentials
-openai.api_key = "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"
+openai.api_key = "skZO"
 
 # Define a function to generate a response from OpenAI
 def generate_response(prompt):
